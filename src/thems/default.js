@@ -1,0 +1,20 @@
+export const defaultTheme = {
+  colorForText: "#333333",
+  colorBlack: "#000000",
+  colorBlue: "#D8ECFE",
+  colorGray: "#F7F7F7",
+  colorWhite: "#FFFFFF",
+  colorforIconFarmBg: "#E1EDCE",
+  colorforIconFarm: "#88AA4D",
+  colorForIconShopBg: "#F8DDD7",
+  colorForIconShop: "#F75531",
+  colorForButton: "#FC9B27",
+  colorForButtonHover: "#FC7427",
+  pagePaddind: "90px",
+  indent: "20px",
+  fontFamily: '"Inter", "Arial", sans-serif',
+  fontSizeDefault: "18px",
+  headerHeight: "80px",
+  footerHeight: "80px",
+  pageWidth: "1280px"
+};
